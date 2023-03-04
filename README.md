@@ -9,6 +9,9 @@
   Once all the spaces are filled, if there is no winner, then it is a tie.
 
 
+*NOTE :* Correct file paths if neccessary and add your own favicon.
+
+
 ## Author
 
 GitHub : [RyukGitHub](https://github.com/RyukGitHub)
